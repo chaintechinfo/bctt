@@ -5,6 +5,14 @@
 
 ERC20 Token 标准描述了以太坊的令牌合约必须实现的功能和事件。
 
+## 其他资源
+
+* [以太坊 Token Tracker](https://etherscan.io/tokens)
+
+目前总共有 41030 个 ERC20 的 Token 合约。
+
+
+
 ---
 
 via: [ERC20_TOKEN_STANDARD](https://theethereum.wiki/w/index.php/ERC20_Token_Standard)
