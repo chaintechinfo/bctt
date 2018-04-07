@@ -1,5 +1,9 @@
 # bctt
-Blockchain Technology Translation
+Distribute Technology, include Blockchain Technology Translation
+
+## Distribute
+
+- [cloudera blog](http://blog.cloudera.com/)
 
 ## Blockchain technology resource websites
 
